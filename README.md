@@ -6,6 +6,8 @@ This is an example application that runs a computer vision model on the Portenta
 
 **Elephant vs. not elephant**
 
+> **Note:** This example was built using a pre-release version of the Portenta H7 libraries, and a preview version of Edge Impulse for the Portenta H7. There are expected issues with exposure, and bugs may arise.
+
 ## Requirements
 
 You'll need the following hardware:
