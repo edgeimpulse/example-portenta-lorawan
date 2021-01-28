@@ -34,7 +34,7 @@ You'll need the following hardware:
 
 ## Training a new model
 
-The elephant model used in the demo is here: [Elephant tracker](https://studio.edgeimpulse.com/public/latest/16116/).
+The elephant model used in the demo is here: [Elephant tracker](https://studio.edgeimpulse.com/public/16116/latest/).
 
 1. Load the Edge Impulse firmware for the Portenta H7: [instructions](https://docs.edgeimpulse.com/docs/arduino-portenta-h7).
 1. Build a new model from scratch in Edge Impulse with the following settings:
